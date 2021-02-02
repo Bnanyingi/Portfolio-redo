@@ -11,6 +11,7 @@ function Home() {
                     alt="avatar"
                     className="avatar-img"
                  />
+                 
              </Cell>
          </Grid>
             

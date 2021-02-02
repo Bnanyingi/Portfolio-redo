@@ -11,6 +11,8 @@ function App() {
      <BrowserRouter>
        <Route exact path="/" component={Home} />
        <Route path="/Contact" component={Contact} />
+       <Route path="/Projects" component={Projects} />
+
        
 
       </BrowserRouter>
