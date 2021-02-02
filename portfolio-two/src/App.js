@@ -1,8 +1,15 @@
 import { BrowserRouter, Route } from "react-router-dom";
+<<<<<<< HEAD
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Contact from './pages/Contact';
 import Projects from './pages/Projects';
+=======
+ import Navbar from './components/Navbar';
+ import Home from './pages/Home';
+ import Contact from './pages/Contact';
+ import Projects from './pages/Projects'
+>>>>>>> e7c4534d41f1e285c963498c871132cad773cff7
 import './App.css';
 
 function App() {
