@@ -1,5 +1,7 @@
 import React from 'react';
 import { Grid, Cell } from 'react-mdl';
+import { MDBIcon } from "mdbreact";
+
 
 function Home() {
     return (
@@ -21,17 +23,17 @@ function Home() {
 
                       {/*LinkedIn */}
                        <a href="http://google.com" rel="noopener noreferrer" target="blank">
-                           <i className="fa fa-linkedin-square" aria-hidden="true" />
+                       <MDBIcon fab icon="linkedin" />
                        </a>
 
                        {/*Github */}
                        <a href="http://google.com" rel="noopener noreferrer" target="blank">
-                           <i className="fa fa-github-square" aria-hidden="true" />
+                       <MDBIcon fab icon="github-square" />
                        </a>
 
                        {/*Twitter */}
                        <a href="http://google.com" rel="noopener noreferrer" target="blank">
-                           <i className="fa fa-twitter-square" aria-hidden="true" />
+                       <MDBIcon fab icon="twitter-square" />
                        </a>
 
                    </div>
@@ -47,3 +49,5 @@ function Home() {
 }
 
 export default Home
+
+
