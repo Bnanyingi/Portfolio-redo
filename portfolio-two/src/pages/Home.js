@@ -22,17 +22,17 @@ function Home() {
                    <div className="social-links">
 
                       {/*LinkedIn */}
-                       <a href="http://google.com" rel="noopener noreferrer" target="blank">
+                       <a href="https://www.linkedin.com/in/barbara-nanyingi-23aa79191/" rel="noopener noreferrer" target="blank">
                        <MDBIcon fab icon="linkedin" />
                        </a>
 
                        {/*Github */}
-                       <a href="http://google.com" rel="noopener noreferrer" target="blank">
+                       <a href="https://github.com/Bnanyingi" rel="noopener noreferrer" target="blank">
                        <MDBIcon fab icon="github-square" />
                        </a>
 
                        {/*Twitter */}
-                       <a href="http://google.com" rel="noopener noreferrer" target="blank">
+                       <a href="https://twitter.com/Bnanyingi1" rel="noopener noreferrer" target="blank">
                        <MDBIcon fab icon="twitter-square" />
                        </a>
 
